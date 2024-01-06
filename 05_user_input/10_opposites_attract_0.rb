@@ -31,4 +31,4 @@ integer2 = nil
     break
   end
 end
-# CORRECT
+# Mostly correct excepting for forgetting to use valid_number?
